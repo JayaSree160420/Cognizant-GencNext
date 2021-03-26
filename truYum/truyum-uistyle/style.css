@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color:#000080;
+    margin-bottom: 80px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+ .topnav-right {
+    float: right;
+    margin-right: 100px;
+
+  }
+  .topnav-right a{
+      text-decoration: underline;
+      font-size: 20px;
+  }
+   .table-content
+   {
+       margin-left: 300px;
+       margin-top: 40px;
+       font-size: 20px;
+        }
+.header
+{
+    text-align: left;
+}
+        .table-content-admin{
+     font-size: 20px;
+     margin-top: 20px;
+   }
+    .menu-items
+   {
+       font-size: 30px;
+       margin-left: 55px;
+    
+} 
+.menu-items-cust
+{
+    font-size: 30px;
+    margin-left: 360px;
+ 
+} 
+.edit-menu
+{
+    margin-left: 53px;
+    font-size: 30px;
+}
+   /*td{
+       padding-right: 50px;
+   }*/
+   .pad{
+       padding-right: 200px;
+   } 
+   .col
+   {
+       color:#000000;
+   }
+   td{
+    padding:4px 54px;
+    text-align: center;
+   }
+   footer
+   {
+       width: 100%;
+       background-color:#808080;
+       padding: 20px;
+       left: 0;
+   bottom: 0;
+   position: fixed;
+   }
+   .edit label
+   {
+        color: #808080;
+   }
+
+   .btnlarge
+   {
+    border: none;
+  background-color: #0000ff;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  margin-left: -40px;
+   }
+
+   .nametab{
+       margin-top: 40px;
+       
+   }
+   .menu-details
+   {
+       color: #008000;
+       margin-left: 97px;
+       margin-top: 40px;
+       font-size: 20px;
+   }
+   .cart
+   {
+       text-align: center;
+       color: #008000;
+       font-size: 25px;
+   }
+   .cartdetails
+   {
+       margin-left: 355px;
+   }
+   .empty
+   {
+       color: #808080;
+   }
+   .checkb
+   {
+       width:50px;
+       height: 20px;
+       margin-left: -10px;
+   }
+   .checklabel
+   {
+       margin-left: -10px;
+       color: #808080;
+   }
+   .edit-name
+   {
+     margin-left: -70px;
+   }
+   .name-input
+   {
+    width:830px;
+   }
